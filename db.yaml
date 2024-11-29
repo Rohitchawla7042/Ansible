@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+---
+
+>>>>>>> 2028e708ac446e78fe4fdb7c9978088379af8ef2
 - name: DBserver setup
   hosts: dbservers
   become: yes
